@@ -9,7 +9,7 @@ To enable support for the Pimoroni trackball, place `TRACKBALL_ENABLE = yes`
 in your `rules.mk`
 
 The Pimoroni trackball driver has builtin support to use it as a mouse.
-Iz<:f you wish to do so, you should use the rule `POINTING_DEVICE_ENABLE = yes` as well.
+If you wish to do so, you should use the rule `POINTING_DEVICE_ENABLE = yes` as well.
 
 # Orientation
 For some keyboards, it may be more convenient to rotate the trackball.
